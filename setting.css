@@ -1,0 +1,71 @@
+.marck-script-regular {
+    font-family: "Marck Script", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.hachi-maru-pop-regular {
+    font-family: "Hachi Maru Pop", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+html{
+    max-width: 1080px;
+    height: 2640px;
+}
+
+body {
+    width: 1080px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+h2 {
+    font-family: 'Hachi Maru Pop', serif;
+    font-size: 48px;
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(133, 57, 70)
+}
+
+p{
+    font-family: 'Hachi Maru Pop', serif;
+    font-size: 24px;
+    margin-top:50px ;
+    margin-left: 30px;
+}
+
+.test{
+    color: white;
+    font-size: 48px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 45%;
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(255, 141, 69), rgb(71, 41, 168))
+}
+
+.rozi{
+    width: 1080px;
+    height: 1000px;
+}
+
+.text{
+    position: relative;
+    display: inline-block;
+}
+
+.t{
+    text-align: center;
+    position: absolute;
+    top:500px ;
+    left: 540px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    font-family: "Hachi Maru Pop", serif;
+}
